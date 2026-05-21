@@ -8,14 +8,6 @@
 Here you can play around with the Robot Framework [MCP-Server](https://github.com/manykarim/rf-mcp/tree/main/docker) which helps you to implement, refactor and debug your [Robot Framework](https://robotframework.org/) tests **with the help of AI**.  
 To have something to test against, we have set up a [Checkmk](https://checkmk.com) instance, in which you can also use [Robotmk](https://www.robotmk.org) to integrate the tests into a monitoring instance. 
 
-### MCP Server Support
-
-We provide MCP server support both for **VS Code** and **Claude**. You can choose which one you want to use, or even use both in parallel.
-
-Support for **GitHub Copilot** is currently built-in. You can mention the MCP server via `#robotmcp-vscode` in your prompts. 
-
-If you want to use **Claude**, install the [Claude Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude).  
-After logging in, the Claude command `/mcp` should list the MCP-Server "robotmcp-claude".
 
 
 ## How to Open the Lab
@@ -36,9 +28,18 @@ Clone this repository and open it in VS Code with the [Dev Containers extension]
 VS Code will detect `.devcontainer/devcontainer.json` and prompt you to reopen in container.
 
 
+## Tutorial
+
+See the [tutorial.md](./TUTORIAL.md) for a step-by-step guide on how to use the MCP server with AI tools to create a Robot Framework test suite.
+
+
 ## Links
 
-TBD
+- Robotmk Blog: [Activate Claude in GitHub Codespaces](https://www.robotmk.org/en/blog/gh-codespace-claude/)
+- [Robotmk Starter Repo](https://www.robotmk.org/en/blog/rmk-starter/) with Examples, Templates and Labs
+- Robot Framework MCP Server: https://github.com/manykarim/rf-mcp
+- Robot Framework: https://robotframework.org
+- Checkmk: https://checkmk.com
 
 
 ## Libraries and Versions used in this example
@@ -67,6 +68,6 @@ Also try the other [RF example suites](https://github.com/elabit/robotmk-starter
 >
 > **This repository is automatically synced from [elabit/robotmk-starter](https://github.com/elabit/robotmk-starter/tree/main/labs/rf-mcp).**
 > Do not edit files here directly — changes will be overwritten on the next sync.
-> Last sync: [`9677d6e`](https://github.com/elabit/robotmk-starter/commit/9677d6e42ee643d98cb298e9afb5ebda225eac2b)
+> Last sync: [`451913c`](https://github.com/elabit/robotmk-starter/commit/451913c217c18e383895e66643905b06ebbe6cf6)
 
 ---
