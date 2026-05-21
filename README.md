@@ -24,7 +24,7 @@ After logging in, the Claude command `/mcp` should list the MCP-Server "robotmcp
 
 Click the button below to open this lab in a fully configured VS Code environment in the browser — Checkmk, Robot Framework, Firefox, and a VNC desktop included, no local installation needed:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/robotmk/rf-mcp)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/robotmk/lab-rf-mcp)
 
 > **What is a GitHub Codespace?**  
 > A Codespace is a browser-based VS Code environment hosted by GitHub.  
@@ -67,6 +67,6 @@ Also try the other [RF example suites](https://github.com/elabit/robotmk-starter
 >
 > **This repository is automatically synced from [elabit/robotmk-starter](https://github.com/elabit/robotmk-starter/tree/main/labs/rf-mcp).**
 > Do not edit files here directly — changes will be overwritten on the next sync.
-> Last sync: [`3ab41cc`](https://github.com/elabit/robotmk-starter/commit/3ab41cca30bd04b1553b222f7a7bcffe4274e3ca)
+> Last sync: [`9677d6e`](https://github.com/elabit/robotmk-starter/commit/9677d6e42ee643d98cb298e9afb5ebda225eac2b)
 
 ---
