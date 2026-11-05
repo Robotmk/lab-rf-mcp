@@ -48,8 +48,8 @@ See the [tutorial.md](./TUTORIAL.md) for a step-by-step guide on how to use the 
 |---|---|
 | Python | `3.12` |
 | Node.js | `22.11.0` |
-| Robot Framework | `7.4` |
-| robotframework-browser | `19.14.2` |
+| Robot Framework | `7.5.1` |
+| robotframework-browser | `21.0.0` |
 | rf-mcp | `0.31.2` |
 
 
@@ -68,6 +68,6 @@ Also try the other [RF example suites](https://github.com/elabit/robotmk-starter
 >
 > **This repository is automatically synced from [elabit/robotmk-starter](https://github.com/elabit/robotmk-starter/tree/main/labs/rf-mcp).**
 > Do not edit files here directly — changes will be overwritten on the next sync.
-> Last sync: [`e6e1994`](https://github.com/elabit/robotmk-starter/commit/e6e1994648696a30516b0b388917af712ea9f130)
+> Last sync: [`1409e78`](https://github.com/elabit/robotmk-starter/commit/1409e7803bd4142ee2bbdd74cc4636503c680f89)
 
 ---
